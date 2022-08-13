@@ -1,4 +1,4 @@
-# tugas_24_javascript
+# Tugas 24 Javascript
 
 <b>Tujuan : </b>
 <ul>
